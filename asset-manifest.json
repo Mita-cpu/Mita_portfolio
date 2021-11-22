@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Mita_portfolio/static/css/main.de0c95c0.chunk.css",
+    "main.js": "/Mita_portfolio/static/js/main.8796a70d.chunk.js",
+    "main.js.map": "/Mita_portfolio/static/js/main.8796a70d.chunk.js.map",
+    "runtime-main.js": "/Mita_portfolio/static/js/runtime-main.3fa89d78.js",
+    "runtime-main.js.map": "/Mita_portfolio/static/js/runtime-main.3fa89d78.js.map",
+    "static/js/2.8a1a2413.chunk.js": "/Mita_portfolio/static/js/2.8a1a2413.chunk.js",
+    "static/js/2.8a1a2413.chunk.js.map": "/Mita_portfolio/static/js/2.8a1a2413.chunk.js.map",
+    "static/js/3.b19bbe1b.chunk.js": "/Mita_portfolio/static/js/3.b19bbe1b.chunk.js",
+    "static/js/3.b19bbe1b.chunk.js.map": "/Mita_portfolio/static/js/3.b19bbe1b.chunk.js.map",
+    "index.html": "/Mita_portfolio/index.html",
+    "static/css/main.de0c95c0.chunk.css.map": "/Mita_portfolio/static/css/main.de0c95c0.chunk.css.map",
+    "static/js/2.8a1a2413.chunk.js.LICENSE.txt": "/Mita_portfolio/static/js/2.8a1a2413.chunk.js.LICENSE.txt",
+    "static/media/background.37a49486.jpg": "/Mita_portfolio/static/media/background.37a49486.jpg",
+    "static/media/slide1.88fb3fa3.jpg": "/Mita_portfolio/static/media/slide1.88fb3fa3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3fa89d78.js",
+    "static/js/2.8a1a2413.chunk.js",
+    "static/css/main.de0c95c0.chunk.css",
+    "static/js/main.8796a70d.chunk.js"
+  ]
+}
