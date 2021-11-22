@@ -1,3 +1,43 @@
+# Restaurant-Page
+
+![Screenshot](src/images/restaurant-shot.png)
+
+[Live Demo](https://mita-cpu.github.io/Mita_portfolio/)
+
+This is single page application that demonstrates the Author's Portfolio using React fundamentals,  by implementing the following requirements of the project:
+
+1. Initializing the project with npm and setting up webpack.
+
+2. Creating components to for each layout on the page  
+
+3. Using the material icons to add icons to the app.
+
+4. Using the Route from the react-router-dom to navigate through the home, about, sovtech, and contact sectons.
+
+
+
+## Built With
+
+- REACT
+
+
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+- Code Editor of your choice
+- Initialize npm by running `npm init` in your project terminal.
+- 
+
+
+### Setup
+
+- To clone the repo to your local repository. Follow this steps
+- <code> git clone https://github.com/Mita-cpu/Mita_portfolio.git</code>
+- <code> cd myportfolio</code>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -8,63 +48,36 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- Runs the app in the development mode.\
+- Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- The page will reload when you make changes.\
+- You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Author
 
-### `npm run build`
+:bust_in_silhouette: **Mita Raboya**
+- Github: [@Rumbie-Mudzie7](https://github.com/Mita-cpu)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## :handshake: Contributing
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+There are two ways of contributing to this project:
+1.  If you see something wrong or not working, please check [the issue tracker section](https://github.com/Mita-cpu/Mita_portfolio/issues), if that problem you met is not in already opened issues then open the issue by clicking on `new issue` button.
+2.  If you have a solution to that, and you are willing to work on it, follow the below steps to contribute:
+    1.  Fork this repository
+    1.  Clone it on your local computer by running `git clone https://github.com/Mita-cpu/Mita_portfolio.git` __Replace *Rumbie-Mudzie7* with the username you use on github__
+    1.  Open the cloned repository which appears as a folder on your local computer with your favorite code editor
+    1.  Create a separate branch off the *master branch*,
+    1.  Write your codes which fix the issue you found
+    1.  Commit and push the branch you created
+    1.  Raise a pull request, comparing your new created branch with our original master branch [here](https://github.com/Mita-cpu/Mita_portfolio)
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Show your support
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Give a :star:️ if you like this project!
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
